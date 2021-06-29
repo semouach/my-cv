@@ -1,0 +1,49 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #0475ba;
+    height: 80px;
+}
+
+.sec{
+    background-color: #0475ba;
+}
+
+.clr{
+    color: #0475ba;
+}
+
+
+/* Section 1 */
+
+
+
+.s1{
+    display: flex;
+    justify-content: center;
+}
+
+.nom{
+    
+}
+
+img{
+    border-radius: 50%;
+}
+
+/* Presentation */
+
+.lis{
+    padding: 70px;
+    margin: 50px;
+}
+
+/* Experience */
+
